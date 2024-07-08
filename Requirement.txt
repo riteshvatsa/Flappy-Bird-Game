@@ -1,0 +1,9 @@
+You need to install the below modules to run the code :
+pygame
+math
+sys
+time
+keyboard
+OpenCV, cv2
+mediapipe
+numpy
